@@ -1,0 +1,4 @@
+WeasyPrint==0.40
+Jinja2==2.9.6
+Django==1.11.5
+
